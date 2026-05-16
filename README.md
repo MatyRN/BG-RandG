@@ -4,12 +4,6 @@
 
 </div>
 
-<div align="center">
-
-| ![img2](/res/PrevA.JPG) | ![img3](/res/PrevB.JPG) |
-|-------------------------|-------------------------|
-
-</div>
 <div>
 <p align="center">
   <a href="https://github.com/MatyRN/You-StreamVsChat/releases/download/V1.0.3/YouStreamVSChat.1.0.3.zip"> 
@@ -36,6 +30,7 @@
 - Open the program and start creating color combinations with these cubes, triangles, and backgrounds. :D
 
 ### ✨ You can help me improve this show and make more ✨
+
 You can help me continue updating this show and bring more projects. Or you can also contact me and ask me for a specific project, and we can chat.
 
 ## Dependence
