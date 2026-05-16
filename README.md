@@ -10,7 +10,7 @@
 |-------------------------|-------------------------|
 
 </div>
-
+<div>
 <p align="center">
   <a href="https://github.com/MatyRN/You-StreamVsChat/releases/download/V1.0.3/YouStreamVSChat.1.0.3.zip"> 
     <img src="https://img.shields.io/badge/⬇️-Download-red?style=for-the-badge" alt="Download" width="250px" />
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=ko-fi" alt="Ko-fi" />
   </a>
 </p>
-
+</div>
 **BG RandG** or **Back Ground Random Generator** is a generator of effects using SDL2, GLEW 2.1 and IMGUI. You can use it as a music visualizer, green screen, and more. 
 
 - It has two types of render (cubes and triangles).
