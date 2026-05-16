@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BG RandG" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/BackGround RandOld (Rand Background)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/SDL2/i686-w64-mingw32/include" />
+					<Add directory="D:/glew-2.2.0/include" />
+					<Add directory="D:/bullet3/src" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/BackGround RandOld (Rand Background)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/SDL2/i686-w64-mingw32/include" />
+			<Add directory="D:/glew-2.2.0/include" />
+			<Add directory="D:/Program Files (x86)/Imgui" />
+			<Add directory="D:/Program Files (x86)/Imgui/backends" />
+		</Compiler>
+		<Linker>
+			<Add option="-static-libstdc++" />
+			<Add option="-static-libgcc" />
+			<Add option="-static" />
+			<Add option="-lglu32" />
+			<Add option="-lopengl32" />
+			<Add option="-lSDL2main" />
+			<Add option="-lSDL2" />
+			<Add option="-lmingw32" />
+			<Add option="-limm32" />
+			<Add option="-lwinmm" />
+			<Add option="-lversion" />
+			<Add library="SDL2" />
+			<Add library="SDL2main" />
+			<Add library="opengl32" />
+			<Add library="SDL2_image" />
+			<Add library="SDL2_mixer" />
+			<Add directory="C:/SDL2/i686-w64-mingw32/lib" />
+			<Add directory="D:/glew-2.2.0/lib" />
+			<Add directory="D:/Program Files (x86)/Imgui" />
+			<Add directory="D:/Program Files (x86)/Imgui/backends" />
+		</Linker>
+		<Unit filename="D:/Program Files (x86)/Imgui/backends/imgui_impl_opengl2.cpp" />
+		<Unit filename="D:/Program Files (x86)/Imgui/backends/imgui_impl_sdl2.cpp" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imconfig.h" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imgui.cpp" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imgui.h" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imgui_demo.cpp" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imgui_draw.cpp" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imgui_internal.h" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imgui_tables.cpp" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imgui_widgets.cpp" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imstb_rectpack.h" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imstb_textedit.h" />
+		<Unit filename="D:/Program Files (x86)/Imgui/imstb_truetype.h" />
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="src/Camera.cpp" />
+		<Unit filename="src/Camera.h" />
+		<Unit filename="src/InitOpenGL.cpp" />
+		<Unit filename="src/LibsAndVariables.h" />
+		<Unit filename="src/Objects.cpp" />
+		<Unit filename="src/Objects.h" />
+		<Unit filename="src/main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
