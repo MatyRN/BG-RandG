@@ -1,12 +1,12 @@
  <div align="center">
   
-![ui](/res/Titlegit.png)
+![ui](/res/TitleNormal.png)
 
 </div>
 
 <div align="center">
 
-| ![img2](/res/Img_2.PNG) | ![img3](/res/Img_3.PNG) |
+| ![img2](/res/PrevA.PNG) | ![img3](/res/PrevB.PNG) |
 |-------------------------|-------------------------|
 
 </div>
