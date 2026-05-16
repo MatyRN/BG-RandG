@@ -6,7 +6,7 @@
 
 <div>
 <p align="center">
-  <a href="https://github.com/MatyRN/You-StreamVsChat/releases/download/V1.0.3/YouStreamVSChat.1.0.3.zip"> 
+  <a href="https://github.com/MatyRN/BG-RandG/releases/download/v1.0.X/BG.RandG.1.0b.zip"> 
     <img src="https://img.shields.io/badge/⬇️-Download-red?style=for-the-badge" alt="Download" width="250px" />
   </a>
 </p>
